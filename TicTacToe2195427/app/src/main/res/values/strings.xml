@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe-2195427</string>
+
+    <string name="ticTile">Tic</string>
+    <string name="tacTile">Tac</string>
+    <string name="toeTile">Toe</string>
+    <string name="playButton">Start</string>
+
+    <string name="PlayerSetupTitle">Player Name Board</string>
+    <string name="Label1">Player Red</string>
+    <string name="Label2">Player Blue</string>
+    <string name="submitButton">Register Players</string>
+    <string name="nameHint">Enter Your Name</string>
+
+    <string name="playAgainButton">Start Again</string>
+    <string name="homeButton">Home</string>
+</resources>
